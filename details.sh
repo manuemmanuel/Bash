@@ -1,3 +1,4 @@
+# Program to print name, semester, batch and register number
 echo "Enter the name: "
 read name
 echo "Enter the semester: "
